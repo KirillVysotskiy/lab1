@@ -1,2 +1,1 @@
 New text (edited in Branch "master")
-Text from new Branch "Dev"
